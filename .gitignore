@@ -1,0 +1,4 @@
+/vendor/
+.env
+runtime/logs/*
+!runtime/logs/.gitkeep
