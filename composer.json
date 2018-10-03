@@ -3,11 +3,12 @@
   "license": "MIT",
   "require": {
     "php": ">=7.1",
-    "moon-php/moon": "^0.1",
+    "moon-php/moon": "^0.3",
     "moon-php/container": "^0.1",
     "guzzlehttp/psr7": "^1.4",
     "monolog/monolog": "^1.23",
-    "vlucas/phpdotenv": "^2.4"
+    "vlucas/phpdotenv": "^2.4",
+    "spiral/roadrunner": "^1.2"
   },
   "authors": [
     {

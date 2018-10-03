@@ -58,4 +58,4 @@ $entries[ErrorHandlerInterface::class] = function (ContainerInterface $container
     };
 };
 
-return new Container($entries);
+return $entries;
